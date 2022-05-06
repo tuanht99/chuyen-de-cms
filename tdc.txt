@@ -1,0 +1,2 @@
+file tdc.txt
+thuoc brank week1
