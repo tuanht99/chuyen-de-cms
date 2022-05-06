@@ -1,2 +1,0 @@
-day la file tdc.txt 
-thuoc branch week1
