@@ -1,2 +1,2 @@
 This is week1.txt
-Only belongs to branch week1.
+Belongs to branch week1 and main.
